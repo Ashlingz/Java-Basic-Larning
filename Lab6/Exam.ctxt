@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Exam
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Exam\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Exam()
+comment2.params=
+comment2.target=int\ getScore1()
+comment3.params=
+comment3.target=int\ getScore2()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.Double\ getTotal()
+comment6.params=stuScore
+comment6.target=void\ Tscore1(int)
+comment7.params=stuScore
+comment7.target=void\ Tscore2(int)
+comment8.params=stuName\ stuScore1\ stuGrade
+comment8.target=void\ ExamInfo(java.lang.String,\ int,\ int)
+numComments=9

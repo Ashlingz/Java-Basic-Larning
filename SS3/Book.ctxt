@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Book
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Book\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Book()
+comment2.params=
+comment2.target=void\ addBook()
+comment3.params=
+comment3.target=void\ editBook()
+comment4.params=
+comment4.target=void\ displayBook()
+comment5.params=
+comment5.target=int\ getBookId()
+comment6.params=bookStatus
+comment6.target=void\ setStatus(java.lang.Boolean)
+comment7.params=item
+comment7.target=void\ addItem(Item)
+comment8.params=
+comment8.target=void\ displayAllItem()
+numComments=9

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Library
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Library\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=libraryId\ libraryName\ libraryAddress
+comment1.target=Library(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ libraryMenu()
+comment3.params=
+comment3.target=void\ bookMenu()
+comment4.params=
+comment4.target=void\ itemMenu()
+comment5.params=
+comment5.target=void\ patronMenu()
+comment6.params=
+comment6.target=void\ circulationMenu()
+comment7.params=bookId
+comment7.target=int\ searchBook(int)
+numComments=8
